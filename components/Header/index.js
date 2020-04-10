@@ -22,7 +22,7 @@ function Header(item) {
     date.classList.add('date');
     temp.classList.add('temp');
 
-    date.textContent = 'Smarch 28, 2019'; //Stupid Smarch weather!!
+    date.textContent = 'Smarch 28, 2019'; //Lousy Smarch weather!!
     title.textContent = 'Lambda Times';
     temp.textContent = '98°';
 
